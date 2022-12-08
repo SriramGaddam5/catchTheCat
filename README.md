@@ -1,4 +1,5 @@
 # catchTheCat
+![Cat](https://user-images.githubusercontent.com/56180112/206329944-d84ec5e5-c2b9-4c37-9656-769d6b134c3a.png)
 
 1. Open fun_game.py in any IDE
 2. Run fun_game.py
