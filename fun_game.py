@@ -764,7 +764,7 @@ def search(x, y):
     solution[x, y] = x, y
 
     while len(frontier) > 0:  # Exit while loop when frontier queue equals zero
-        x, y = frontier.popleft()  # Pop next entry in the frontier queue an assign to x and y location
+        x, y = frontier.popleft()  # Pop next entry in the frontier queue and assign to x and y location
 
         # Check the cell on the left
         if cat_left_check(x, y) and (x, y - 1) not in visited:
