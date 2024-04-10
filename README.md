@@ -11,4 +11,4 @@
 8. If you want to turn off sounds, press the sound button on the top right
 9. If you want the game over or game win screens to be shown, toggle the game end screens button in the top right
 10. If you want to stop playing, press quit in the top right corner
-11. Your wins, losses, and time played will be outputted catchTheCatScore.txt every time you play
+11. Your wins, losses, and time played will be saved to catchTheCatScore.txt every time you play
